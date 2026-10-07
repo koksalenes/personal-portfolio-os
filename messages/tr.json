@@ -1,0 +1,627 @@
+{
+  "meta": {
+    "jobTitle": "Yazılım Mühendisi",
+    "description": "Ölçeklenebilir uygulamalar geliştiren tam yığın yazılım mühendisi.",
+    "keywords": [
+      "Yazılım Mühendisi",
+      "Full-Stack Geliştirici"
+    ]
+  },
+  "nav": {
+    "about": "Hakkımda",
+    "experience": "Deneyim",
+    "skills": "Yetenekler",
+    "education": "Eğitim",
+    "contact": "İletişim",
+    "menu": "Menü"
+  },
+  "hero": {
+    "greeting": "Merhaba, ben",
+    "rolesTyped": [
+      "Yazılım Mühendisi",
+      "Full-Stack Geliştirici"
+    ],
+    "tagline": "Ürün fikirlerini uçtan uca hızlı, güvenilir ve sürdürülebilir yazılımlara dönüştürüyorum.",
+    "ctaContact": "İletişime geçin",
+    "ctaWork": "Deneyimi görüntüle",
+    "stats": {
+      "experience": "Yıllık deneyim",
+      "clients": "Hizmet verilen müşteri",
+      "satisfaction": "Müşteri memnuniyeti"
+    },
+    "editor": {
+      "skipIntro": "Atla",
+      "replay": "Animasyonu tekrar oynat",
+      "run": "Çalıştır",
+      "pause": "Durdur",
+      "resume": "Devam et"
+    }
+  },
+  "about": {
+    "label": "Hakkımda",
+    "title": "Ürün Odaklı Mühendislik",
+    "lead": "Teknik derinliği kurucu bakış açısıyla ve ürün vizyonuyla birleştiren bir mühendis.",
+    "summary": "Ölçeklenebilir web uygulamaları, API'ler ve backend servisleri geliştiren, full-stack yazılım mühendisiyim. Sistem tasarımından canlıya kadar 20'den fazla kurumsal ve freelance müşteri için üretim yazılımı teslim ettim; iş etkisine, net iletişime ve sürdürülebilir, kaliteli koda odaklanan bir kurucu zihniyetiyle çalışıyorum.",
+    "highlights": {
+      "fullstack": {
+        "title": "Uçtan Uca",
+        "desc": "Veritabanı şemalarından piksel hassasiyetinde arayüzlere."
+      },
+      "architecture": {
+        "title": "Mimari",
+        "desc": "Ölçeklenebilirlik odaklı temiz tasarım."
+      },
+      "responsibility": {
+        "title": "Sorumluluk",
+        "desc": "Kurucu zihniyeti ve uçtan uca sorumluluk."
+      }
+    }
+  },
+  "experience": {
+    "label": "Deneyim",
+    "title": "Çalışma Geçmişim",
+    "present": "Devam Ediyor",
+    "items": {
+      "subtello": {
+        "role": "Kurucu",
+        "company": "Subtello",
+        "location": "Uzaktan",
+        "linkLabel": "subtello.com",
+        "bullets": [
+          "100+ dilde transkripsiyon ve altyazı, yapay zekâ dublaj, temiz ses ve otomatik B-roll üretimi sunan yapay zekâ tabanlı video yerelleştirme servisi Subtello'yu kurdum.",
+          "Konuşma, çeviri, ses ve video modellerini tek bir iş akışında yöneten yapay zekâ tabanlı işleme mimarisini tasarladım."
+        ]
+      },
+      "octopus": {
+        "role": "Yazılım Mühendisi",
+        "company": "Octopus Signage",
+        "location": "Kocaeli, Türkiye · Hibrit",
+        "bullets": [
+          "30.000'den fazla dijital ekranı yönetmek için kullanılan yüksek performanslı bir CMS paneli geliştirdik.",
+          "Büyük ekran filolarını tek panelden yönetmek için gerçek zamanlı ekran izleme, uzaktan kontrol ve içerik zamanlama özelliklerini geliştirdik.",
+          "Agile/Scrum ekibinde büyük veri setleri için modüler bir bileşen mimarisi tasarladık ve gerçek zamanlı API entegrasyonları geliştirdik."
+        ]
+      },
+      "founder": {
+        "role": "Kurucu",
+        "company": "{name}",
+        "location": "Uzaktan",
+        "bullets": [
+          "5'ten fazla kurumsal müşteri için gereksinimden canlıya uçtan uca web ve mobil uygulamalar teslim ettim.",
+          "Müşteri projelerini kapsam ve tahminlemeden teslimat, destek ve bakıma kadar uçtan uca yönettim.",
+          "TOFAŞ dahil müşterilere proje bazlı danışmanlık verdim, teknik dokümantasyonu hazırladım."
+        ]
+      },
+      "freelancer": {
+        "role": "Yazılım Mühendisi",
+        "company": "Freelance",
+        "location": "Uzaktan",
+        "bullets": [
+          "15'ten fazla müşteri için özel web, mobil ve masaüstü uygulamaları, API'ler ve entegrasyonlar geliştirip yayına aldım.",
+          "Veri modelleme, deployment ve bakımı uçtan uca üstlendim; %100 müşteri memnuniyeti sağladım."
+        ],
+        "linkLabel": "Freelancer profili"
+      },
+      "tofas": {
+        "role": "Veri Bilimci",
+        "company": "TOFAŞ",
+        "location": "Bursa, Türkiye · Hibrit",
+        "linkLabel": "Başarı hikâyesini oku",
+        "bullets": [
+          "Çok disiplinli bir ekipte, IoT sensör ve geçmiş hata verileri üzerinde (araç başına ~4.000 kaynak noktası) derin öğrenme ve lojistik regresyonla punta kaynağı anomali tespiti ve gerçek zamanlı hata sınıflandırması geliştirdik.",
+          "Python, KNIME, Azure ve PostgreSQL ile zaman serisi tabanlı kestirimci bakım modelleri ve izleme için KNIME Data App'ler geliştirdik. Proje yılda 1,3 milyon €'dan fazla tasarruf sağladı, OEE'yi %2,9 artırdı ve günlük üretime 28 araç ekledi.",
+          "Veri filtreleme ve sınıflandırma için 3 LLM tabanlı bot, Qlik Sense, Grafana ve Power BI ile 5'ten fazla gerçek zamanlı dashboard geliştirdik."
+        ]
+      },
+      "teknofest": {
+        "role": "Yarışmacı",
+        "company": "TEKNOFEST",
+        "location": "Bursa, Türkiye",
+        "linkLabel": "Sertifikaları gör",
+        "bullets": [
+          "İnsansız Kara Aracı: NVIDIA Jetson Nano üzerinde bitki görüntü işleme geliştirdik, sonuçları API ile operatör arayüzüne aktardık.",
+          "Akıllı Ulaşım: Python/YOLO ile emniyet kemeri ve uyuklama tespiti geliştirdik, API üzerinden masaüstü arayüzde gösterdik.",
+          "Uyarı sistemi motorlarını çalıştırmak için API ile bağlı Arduino ve Raspberry Pi kartlarını programladık."
+        ]
+      }
+    }
+  },
+  "skills": {
+    "label": "Yetenekler",
+    "title": "Teknoloji Yığını",
+    "categories": {
+      "technologies": "Temel Teknolojiler",
+      "architecture": "Mimari & Tasarım",
+      "data": "Veri Yönetimi",
+      "testing": "Test Araçları",
+      "devtools": "Geliştirme Araçları",
+      "collaboration": "Takım İşbirliği"
+    }
+  },
+  "education": {
+    "label": "Eğitim",
+    "title": "Geçmiş",
+    "degree": "Mekatronik Mühendisliği",
+    "school": "Bursa Teknik Üniversitesi",
+    "period": "Ağu 2020 - Tem 2024",
+    "location": "Bursa, Türkiye",
+    "languages": "Diller",
+    "languageList": {
+      "turkish": {
+        "name": "Türkçe",
+        "level": "Ana dil"
+      },
+      "english": {
+        "name": "İngilizce",
+        "level": "B1"
+      }
+    },
+    "certificates": {
+      "title": "Sertifikalar",
+      "items": [
+        {
+          "name": "Teknofest İnsansız Kara Aracı Yarışması",
+          "issuer": "TEKNOFEST",
+          "date": "Mayıs 2023",
+          "credentialId": "48129",
+          "url": "https://www.t3kys.com/en/program/certificate/48129"
+        },
+        {
+          "name": "Teknofest Akıllı Ulaşım Yarışması",
+          "issuer": "TEKNOFEST",
+          "date": "Mayıs 2023",
+          "credentialId": "47480",
+          "url": "https://www.t3kys.com/en/program/certificate/47480"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "label": "İletişim",
+    "title": "İletişime Geçin",
+    "text": "Aklınızdaki fikri değerlendirmek veya merhaba demek için istediğiniz zaman ulaşabilirsiniz.",
+    "cta": "Merhaba de",
+    "emailLabel": "E-posta",
+    "socials": "Bağlantılar",
+    "sendEmail": "E-posta gönder",
+    "copyEmail": "E-postayı kopyala",
+    "clickToCopy": "Kopyalamak için tıkla",
+    "copied": "Kopyalandı!"
+  },
+  "footer": {
+    "rights": "Tüm hakları saklıdır."
+  },
+  "theme": {
+    "toggle": "Temayı değiştir",
+    "light": "Açık",
+    "dark": "Koyu"
+  },
+  "palette": {
+    "toggle": "Renk paletini değiştir",
+    "orange": "Turuncu & Kobalt",
+    "purple": "Mor & Turkuaz",
+    "charcoal": "Antrasit & Neon"
+  },
+  "locale": {
+    "switch": "Dili değiştir",
+    "en": "English",
+    "tr": "Türkçe"
+  },
+  "loading": "Yükleniyor…",
+  "notFound": {
+    "code": "404",
+    "title": "Bilgisayarınız bir sorunla karşılaştı ve yeniden başlatılması gerekiyor.",
+    "text": "Aradığınız sayfa bu bilgisayarda bulunamadı. Bazı hata bilgilerini topluyoruz, ardından yeniden başlatabilirsiniz.",
+    "progress": "%{n} tamamlandı",
+    "more": "Bu sorun ve olası düzeltmeler hakkında daha fazla bilgi için ziyaret edin",
+    "stopCode": "Durdurma kodu",
+    "failed": "Başarısız olan",
+    "restart": "Yeniden Başlat",
+    "hint": "Yeniden başlatmak için Enter'a basın"
+  },
+  "desktop": {
+    "editor": "Kod Editörü",
+    "browser": "Tarayıcı",
+    "terminal": "Terminal",
+    "close": "Kapat",
+    "minimize": "Küçült",
+    "fullscreen": "Tam ekran",
+    "welcome": "Hoş geldiniz",
+    "dock": "Dock",
+    "menu": {
+      "file": "Dosya",
+      "edit": "Düzen",
+      "view": "Görüntü",
+      "go": "Git",
+      "window": "Pencere",
+      "help": "Yardım",
+      "aboutOs": "{os} Hakkında",
+      "darkMode": "Karanlık Mod",
+      "replay": "Girişi Tekrar Oynat",
+      "sleep": "Uyut",
+      "restart": "Yeniden Başlat…",
+      "shutDown": "Kapat…",
+      "lock": "Ekranı Kilitle",
+      "aboutApp": "{app} Hakkında",
+      "hide": "{app} Uygulamasını Gizle",
+      "quit": "{app} Uygulamasından Çık",
+      "newTerminal": "Yeni Terminal Penceresi",
+      "openSite": "{domain} Aç",
+      "openEditor": "Kod Editörünü Aç",
+      "openReadme": "README.md Aç",
+      "closeWindow": "Pencereyi Kapat",
+      "open": "Aç",
+      "selectAll": "Tümünü Seç",
+      "copyEmail": "E-posta Adresini Kopyala",
+      "enterFull": "Tam Ekrana Geç",
+      "wallpaper": "Duvar Kâğıdı",
+      "nextWallpaper": "Duvar Kâğıdını Değiştir",
+      "cleanUp": "Düzenle",
+      "language": "Dil",
+      "home": "Ana Sayfa",
+      "spotlight": "Spotlight Arama…",
+      "minimize": "Küçült",
+      "zoom": "Yakınlaştır",
+      "osHelp": "{os} Yardım",
+      "terminalHelp": "Terminal Komutları",
+      "contactMe": "{name} ile İletişime Geç",
+      "starRepo": "GitHub’da Yıldız Ver ⭐",
+      "viewSource": "Kaynak Kodu GitHub’da Gör",
+      "useTemplate": "Bu Şablonu Kullan"
+    },
+    "wallpapers": {
+      "aurora": "Kutup Işığı",
+      "sunset": "Gün Batımı",
+      "ocean": "Okyanus",
+      "graphite": "Grafit"
+    },
+    "power": {
+      "on": "Aç",
+      "hint": "Açmak için tıkla"
+    },
+    "lock": {
+      "placeholder": "Parolayı Girin",
+      "hint": "İpucu: “{password}” yazmayı dene",
+      "showHint": "Parola ipucunu göster",
+      "wrong": "Yanlış parola",
+      "unlock": "Kilidi aç",
+      "sleep": "Uyut",
+      "restart": "Yeniden Başlat",
+      "shutDown": "Kapat"
+    },
+    "spotlight": {
+      "placeholder": "Spotlight Arama",
+      "apps": "Uygulamalar",
+      "sections": "Bölümler",
+      "files": "Dosyalar",
+      "commands": "Komutlar",
+      "empty": "Sonuç yok"
+    },
+    "notify": {
+      "ready": "{domain} çalışıyor",
+      "readyBody": "Derleme başarılı. Etrafa bir göz at!",
+      "copied": "E-posta adresi kopyalandı",
+      "welcome": "Tekrar hoş geldin, {name}",
+      "welcomeBody": "Keşfetmek için masaüstüne sağ tıkla ya da ⌘K'ya bas.",
+      "wallpaper": "Duvar kâğıdı değiştirildi.",
+      "star": "{os} hoşuna gitti mi?",
+      "starBody": "Açık kaynak! GitHub’da yıldız vermek için tıkla ⭐"
+    },
+    "aboutWin": {
+      "version": "Sürüm {version}",
+      "owner": "Sahibi",
+      "role": "Rol",
+      "experience": "Deneyim",
+      "years": "{n}+ yıl",
+      "stack": "Teknolojiler",
+      "serial": "Seri Numarası",
+      "moreInfo": "Daha Fazla Bilgi…",
+      "contact": "İletişime Geç",
+      "openSource": "{os} açık kaynak. Beğendin mi?",
+      "star": "GitHub’da Yıldız Ver",
+      "template": "Şablon Olarak Kullan"
+    },
+    "back": "Geri",
+    "forward": "İleri",
+    "scriptFile": "hizli-bilgi.sh",
+    "status": {
+      "battery": "Pil",
+      "source": "Güç Kaynağı",
+      "adapter": "Güç Adaptörü",
+      "state": "Durum",
+      "full": "Tamamen Şarj Oldu",
+      "charging": "Şarj oluyor",
+      "untilFull": "Dolmasına {duration}",
+      "remaining": "{duration} kaldı",
+      "onBattery": "Pil gücüyle çalışıyor",
+      "duration": "{h} sa {m} dk",
+      "health": "Sağlık",
+      "normal": "Normal",
+      "energyMode": "Enerji Modu",
+      "automatic": "Otomatik",
+      "knownNetwork": "Bilinen Ağ",
+      "connected": "Bağlı",
+      "otherNetworks": "Diğer Ağlar",
+      "wifiOff": "Wi-Fi kapalı."
+    },
+    "todo": {
+      "title": "Anımsatıcılar",
+      "placeholder": "Yeni anımsatıcı…",
+      "add": "Ekle",
+      "remove": "Anımsatıcıyı sil",
+      "empty": "Hepsi bitti! 🎉",
+      "due": "Son gün: {when}",
+      "dueLabel": "Son gün",
+      "overdue": "gecikti",
+      "today": "bugün",
+      "tomorrow": "yarın",
+      "nextWeekday": "haftaya {weekday}",
+      "choices": {
+        "today": "Bugün",
+        "tomorrow": "Yarın",
+        "inThreeDays": "3 gün sonra",
+        "nextWeek": "Haftaya",
+        "none": "Tarihsiz"
+      },
+      "items": {
+        "launch": "Yeni portföyü yayına al",
+        "coffee": "Kahve molası ☕",
+        "app": "{os} için yeni bir uygulama ekle",
+        "proposal": "Proje teklifini gönder",
+        "blog": "PostgreSQL yazısını yayınla"
+      }
+    },
+    "script": {
+      "finished": "İşlem tamamlandı",
+      "pressKey": "Bu pencereyi kapatmak için bir tuşa bas ya da dokun…",
+      "lines": [
+        "",
+        "Merhaba! 👋 Ben {name},",
+        "bir {role}.",
+        "",
+        "▸ Ne yapıyorum?",
+        "  Ürün fikirlerini uçtan uca hızlı, güvenilir ve sürdürülebilir yazılımlara dönüştürüyorum.",
+        "  .NET ve TypeScript (Node.js, NestJS, Next.js, React) ile ölçeklenebilir uygulamalar, API'ler ve backend servisleri.",
+        "",
+        "▸ Deneyim",
+        "  {years}+ yıldır geliştiriyorum.",
+        "",
+        "▸ Eğitim",
+        "  {degree} — {school}",
+        "",
+        "▸ İletişim",
+        "  ✉  {email}",
+        "  in {linkedin}",
+        "  gh {github}",
+        "",
+        "{os}'u keşfetmeye devam et: masaüstüne sağ tıkla ya da ⌘K'ya bas. 🚀"
+      ]
+    },
+    "searchEngine": {
+      "brand": "Arama",
+      "stats": "“{q}” için yaklaşık {n} sonuç (0,21 saniye)",
+      "linkedin": "{name} — {role}. Profilin tamamını, deneyimi ve önerileri LinkedIn'de görün.",
+      "github": "{name} tarafından geliştirilen depolar, katkılar ve açık kaynak çalışmalar.",
+      "freelancer": "Web, backend ve full-stack projeleriniz için {name} ile çalışın. Yorumlar, portföy ve puanlar."
+    },
+    "settings": {
+      "title": "Sistem Ayarları",
+      "panes": {
+        "general": "Genel",
+        "appearance": "Görünüm",
+        "wallpaper": "Duvar Kâğıdı",
+        "language": "Dil ve Bölge",
+        "wifi": "Wi-Fi",
+        "sound": "Ses",
+        "desktop": "Masaüstü ve Dock",
+        "docker": "Docker"
+      },
+      "version": "Sürüm {version}",
+      "about": "Bu bilgisayar hakkında",
+      "open": "Aç",
+      "reset": "Tüm ayarları sıfırla",
+      "resetHint": "Pencereler, sekmeler, anımsatıcılar ve tercihler unutulur.",
+      "resetButton": "Sıfırla…",
+      "resetDone": "Sıfırlanıyor…",
+      "themes": {
+        "light": "Açık",
+        "dark": "Koyu",
+        "system": "Otomatik"
+      },
+      "language": "Dil",
+      "languageHint": "Tüm sitede kullanılır.",
+      "connectedTo": "{network} ağına bağlı",
+      "wifiOff": "Kapalı",
+      "volume": "Çıkış ses düzeyi",
+      "music": "Müzik",
+      "reminders": "Anımsatıcılar widget'ını göster",
+      "magnify": "Dock büyütme",
+      "cleanUp": "Masaüstü simgeleri",
+      "cleanUpHint": "Simgeleri yerlerine geri koy.",
+      "cleanUpButton": "Düzenle",
+      "musicWidget": "Müzik widget'ını göster",
+      "docker": {
+        "running": "Docker Desktop çalışıyor",
+        "starting": "Docker Desktop başlatılıyor…",
+        "stopped": "Docker Desktop durduruldu",
+        "start": "Başlat",
+        "stop": "Durdur",
+        "startOnLogin": "Oturum açınca Docker Desktop'ı başlat",
+        "cpus": "CPU sınırı",
+        "memory": "Bellek sınırı"
+      }
+    },
+    "music": {
+      "title": "Müzik",
+      "original": "Orijinal",
+      "play": "Oynat",
+      "pause": "Duraklat",
+      "next": "Sonraki",
+      "previous": "Önceki",
+      "volume": "Ses",
+      "playlist": "Çalma Listesi",
+      "playlistName": "{os} Oturumları",
+      "grooves": {
+        "lofi": "Lo-fi",
+        "chill": "Sakin",
+        "house": "House",
+        "synthwave": "Synthwave"
+      },
+      "seek": "Çalma konumu",
+      "back10": "10 saniye geri",
+      "forward10": "10 saniye ileri",
+      "nowPlaying": "Şimdi Çalıyor"
+    },
+    "offline": {
+      "title": "İnternete bağlı değilsiniz",
+      "body": "Bilgisayarınız çevrimdışı olduğu için {domain} adresine ulaşılamıyor.",
+      "tip1": "Menü çubuğundan veya Sistem Ayarları'ndan Wi-Fi'ı açın.",
+      "tip2": "Bir ağa bağlı olduğunuzdan emin olun.",
+      "turnOn": "Wi-Fi'ı Aç"
+    },
+    "control": {
+      "open": "Denetim Merkezi'ni aç",
+      "title": "Denetim Merkezi",
+      "darkMode": "Karanlık Mod",
+      "on": "Açık",
+      "off": "Kapalı",
+      "language": "Dil",
+      "search": "Her şeyi ara",
+      "lock": "Ekranı Kilitle",
+      "close": "Denetim Merkezi'ni kapat"
+    },
+    "ctx": {
+      "open": "Aç",
+      "show": "Göster",
+      "hide": "Gizle",
+      "quit": "Çık",
+      "close": "Pencereyi Kapat",
+      "exitFull": "Tam Ekrandan Çık",
+      "copy": "Kopyala",
+      "openLink": "Bağlantıyı Yeni Sekmede Aç",
+      "copyLink": "Bağlantı Adresini Kopyala",
+      "back": "Geri",
+      "forward": "İleri",
+      "reload": "Yeniden Yükle",
+      "viewSource": "Sayfa Kaynağını Görüntüle",
+      "magnify": "Büyütmeyi Aç",
+      "dockSettings": "Dock Ayarları…",
+      "clearCompleted": "Tamamlananları Temizle",
+      "editWidgets": "Widget'ları Düzenle…",
+      "hideWidget": "Widget'ı Kaldır",
+      "play": "Oynat",
+      "pause": "Duraklat",
+      "nextTrack": "Sonraki Parça",
+      "openMusic": "Müzik'i Aç",
+      "dockerDashboard": "Panoya Git",
+      "dockerContainers": "Container'lar",
+      "dockerSettings": "Ayarlar…",
+      "dockerRestart": "Yeniden Başlat",
+      "dockerStart": "Docker Desktop'ı Başlat",
+      "dockerQuit": "Docker Desktop'tan Çık",
+      "dockerReady": "Docker Desktop çalışıyor",
+      "dockerReadyBody": "Motor başladı. Tüm container'lar yeniden ayakta."
+    },
+    "deploy": {
+      "file": "deployment.sh",
+      "panic": "dockerd: bellek tükendi, süreçler sonlandırılıyor…",
+      "crashText": "deployment.sh ile başlatılan bir container, sistemin belleği tükenene kadar bellek ayırmaya devam etti. Bazı hata bilgilerini topluyoruz, ardından yeniden başlatabilirsiniz.",
+      "lines": [
+        "",
+        "→ docker build -t portfolio-api:1.4.0 .",
+        "  [1/5] FROM mcr.microsoft.com/dotnet/aspnet:9.0",
+        "  [2/5] COPY ./publish /app",
+        "  [3/5] RUN dotnet restore",
+        "  [4/5] RUN dotnet publish -c Release",
+        "  [5/5] imaj dışa aktarılıyor",
+        "  ✔ portfolio-api:1.4.0 başarıyla oluşturuldu (412 MB)",
+        "",
+        "→ docker run -d --name api -p 5000:8080 portfolio-api:1.4.0",
+        "  ✔ api container'ı başlatıldı",
+        "",
+        "→ Sağlık kontrolü bekleniyor…",
+        "  api | warmup: önbellek belleğe yükleniyor",
+        "  ⚠ bellek kullanımı 1.8 GB / 8 GB",
+        "  ⚠ bellek kullanımı 4.6 GB / 8 GB",
+        "  ⚠ bellek kullanımı 7.9 GB / 8 GB (container'a bellek sınırı verilmemiş)",
+        "  ⚠ swap alanı tükendi",
+        "  kernel: Bellek yetersiz: dockerd süreci sonlandırılıyor",
+        "",
+        "FATAL: MEMORY_MANAGEMENT: sayfa çerçevesi ayrılamadı"
+      ]
+    }
+  },
+  "editor": {
+    "explorer": "Gezgin",
+    "search": "Ara",
+    "sourceControl": "Kaynak Denetimi",
+    "extensions": "Uzantılar",
+    "settings": "Ayarlar",
+    "searchPlaceholder": "Dosyalarda ara",
+    "results": "{files} dosyada {n} sonuç",
+    "noResults": "Sonuç bulunamadı.",
+    "commitPlaceholder": "Mesaj (“main” dalına commit için ⌘Enter)",
+    "commit": "Commit",
+    "defaultCommit": "{os} üzerinden güncelleme",
+    "staged": "Hazırlanan Değişiklikler",
+    "changes": "Değişiklikler",
+    "commits": "Commit'ler",
+    "nothingStaged": "Hazırlanan değişiklik yok",
+    "stage": "Değişiklikleri Hazırla",
+    "unstage": "Hazırlığı Geri Al",
+    "push": "Gönder",
+    "extSearch": "Market'te Uzantı Ara",
+    "installed": "Yüklü",
+    "enable": "Etkinleştir",
+    "disable": "Devre Dışı Bırak",
+    "ext": {
+      "csharp": ".NET için verimli C# geliştirme",
+      "eslint": "ESLint'i editöre entegre eder",
+      "prettier": "Kuralcı kod biçimlendirici",
+      "tailwind": "Tailwind CSS için otomatik tamamlama ve denetim",
+      "nest": "Saniyeler içinde controller, servis ve modül",
+      "docker": "Container oluştur, yönet ve yayınla",
+      "postgres": "PostgreSQL veritabanlarını sorgula ve yönet",
+      "gitlens": "Git için blame, geçmiş ve içgörüler",
+      "rest": "API'lerine HTTP istekleri gönder"
+    },
+    "theme": "Renk Teması",
+    "themeHint": "Tüm bilgisayara uygulanır.",
+    "themeDark": "Koyu",
+    "themeLight": "Açık",
+    "themeSystem": "Sistem",
+    "language": "Görüntüleme Dili",
+    "fontSize": "Editör: Yazı Boyutu",
+    "minimap": "Editör: Mini Haritayı Göster",
+    "wallpaper": "Masaüstü Duvar Kâğıdı",
+    "closeTab": "{name} dosyasını kapat",
+    "closeTerminal": "Paneli Kapat",
+    "problems": "Sorunlar",
+    "output": "Çıktı",
+    "terminal": "Terminal",
+    "noProblems": "0 sorun",
+    "oneProblem": "1 sorun",
+    "spaces": "Boşluk: {n}",
+    "showCommands": "Tüm Komutları Göster",
+    "goToFile": "Dosyaya Git",
+    "toggleTerminal": "Terminali Aç/Kapat",
+    "pin": "Sabitle",
+    "unpin": "Sabitlemeyi Kaldır",
+    "open": "Aç",
+    "close": "Kapat",
+    "closeOthers": "Diğerlerini Kapat",
+    "closeRight": "Sağdakileri Kapat",
+    "closeAll": "Tümünü Kapat",
+    "copyPath": "Yolu Kopyala",
+    "copyRelativePath": "Göreli Yolu Kopyala",
+    "reveal": "Gezginde Göster",
+    "copied": "Kopyalandı",
+    "terminalIdle": "Geliştirme sunucusunu başlatmak için Çalıştır'a bas.",
+    "noProblemsLong": "Çalışma alanında sorun bulunamadı.",
+    "outputEmpty": "Henüz çıktı yok. Projeyi çalıştır ya da bir commit at."
+  },
+  "view": {
+    "text": "Metin sürümü",
+    "os": "OS sürümü"
+  }
+}

@@ -1,0 +1,621 @@
+{
+  "meta": {
+    "jobTitle": "Software Engineer",
+    "description": "Full-stack software engineer building scalable applications.",
+    "keywords": ["Software Engineer", "Full-Stack Developer"]
+  },
+  "nav": {
+    "about": "About",
+    "experience": "Experience",
+    "skills": "Skills",
+    "education": "Education",
+    "contact": "Contact",
+    "menu": "Menu"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "rolesTyped": ["Software Engineer", "Full-Stack Developer"],
+    "tagline": "I turn product ideas into fast, reliable and maintainable software, end to end.",
+    "ctaContact": "Get in touch",
+    "ctaWork": "View experience",
+    "stats": {
+      "experience": "Years building",
+      "clients": "Clients served",
+      "satisfaction": "Client satisfaction"
+    },
+    "editor": {
+      "skipIntro": "Skip intro",
+      "replay": "Replay intro",
+      "run": "Run",
+      "pause": "Pause",
+      "resume": "Resume"
+    }
+  },
+  "about": {
+    "label": "About",
+    "title": "Product-Oriented Engineering",
+    "lead": "An engineer who combines technical depth with a founder's product mindset.",
+    "summary": "Full-stack software engineer building scalable web applications, APIs and backend services. I've delivered production software for 20+ enterprise and freelance clients, from system design to deployment, with a founder mindset focused on business impact, clear communication and maintainable, high-quality code.",
+    "highlights": {
+      "fullstack": {
+        "title": "Full-Stack",
+        "desc": "From database schemas to pixel-perfect interfaces."
+      },
+      "architecture": {
+        "title": "Architecture",
+        "desc": "Clean design with a focus on scalability."
+      },
+      "responsibility": {
+        "title": "Responsibility",
+        "desc": "Founding mindset and end-to-end accountability."
+      }
+    }
+  },
+  "experience": {
+    "label": "Experience",
+    "title": "My Work History",
+    "present": "Present",
+    "items": {
+      "subtello": {
+        "role": "Founder",
+        "company": "Subtello",
+        "location": "Remote",
+        "linkLabel": "subtello.com",
+        "bullets": [
+          "Founded Subtello, an AI video localization service offering transcription and subtitles in 100+ languages, AI dubbing, clean audio and automatic B-roll generation.",
+          "Designed an AI-based processing architecture that orchestrates speech, translation, voice and video models in one workflow."
+        ]
+      },
+      "octopus": {
+        "role": "Software Engineer",
+        "company": "Octopus Signage",
+        "location": "Kocaeli, Türkiye · Hybrid",
+        "bullets": [
+          "Built a high-performance CMS panel used to manage 30,000+ digital signage screens.",
+          "Built real-time screen monitoring, remote control and content scheduling to run large screen fleets from one dashboard.",
+          "Designed a modular component architecture for large data sets and built real-time API integrations in an Agile/Scrum team."
+        ]
+      },
+      "founder": {
+        "role": "Founder",
+        "company": "{name}",
+        "location": "Remote",
+        "bullets": [
+          "Delivered end-to-end web and mobile apps for 5+ enterprise clients, from requirements to deployment.",
+          "Managed client projects end to end, from scoping and estimation to delivery, support and maintenance.",
+          "I provided project-based consulting services to various clients, including TOFAŞ, and also prepared technical documents."
+        ]
+      },
+      "freelancer": {
+        "role": "Software Engineer",
+        "company": "Freelance",
+        "location": "Remote",
+        "bullets": [
+          "Built and deployed custom web, mobile and desktop apps, APIs and integrations for 15+ clients.",
+          "Owned data modeling, deployment and maintenance end to end, with 100% client satisfaction."
+        ],
+        "linkLabel": "Freelancer profile"
+      },
+      "tofas": {
+        "role": "Data Scientist",
+        "company": "TOFAŞ",
+        "location": "Bursa, Türkiye · Hybrid",
+        "linkLabel": "Read the success story",
+        "bullets": [
+          "In a cross-functional team, built spot-welding anomaly detection and real-time defect classification with deep learning and logistic regression on IoT sensor and historical fault data (~4,000 weld points per vehicle).",
+          "Developed time-series predictive maintenance models and KNIME Data Apps for monitoring with Python, KNIME, Azure and PostgreSQL. The project saved €1.3M+ per year, raised OEE by 2.9% and added 28 vehicles/day.",
+          "Built 3 LLM-based bots for data filtering and classification, and 5+ real-time dashboards with Qlik Sense, Grafana and Power BI."
+        ]
+      },
+      "teknofest": {
+        "role": "Competitor",
+        "company": "TEKNOFEST",
+        "location": "Bursa, Türkiye",
+        "linkLabel": "View certificates",
+        "bullets": [
+          "Unmanned Ground Vehicle: built plant image processing on an NVIDIA Jetson Nano, served to the operator UI via an API.",
+          "Smart Transportation: built Python/YOLO seatbelt and drowsiness detection, shown on a desktop UI via an API.",
+          "Programmed Arduino and Raspberry Pi boards linked via an API to power the warning system motors."
+        ]
+      }
+    }
+  },
+  "skills": {
+    "label": "Skills",
+    "title": "Technology Stack",
+    "categories": {
+      "technologies": "Core Technologies",
+      "architecture": "Architecture & Design",
+      "data": "Data Management",
+      "testing": "Test Tools",
+      "devtools": "Development Tools",
+      "collaboration": "Team Collaboration"
+    }
+  },
+  "education": {
+    "label": "Education",
+    "title": "Background",
+    "degree": "Mechatronics Engineering",
+    "school": "Bursa Technical University",
+    "period": "Aug 2020 - Jul 2024",
+    "location": "Bursa, Türkiye",
+    "languages": "Languages",
+    "languageList": {
+      "turkish": {
+        "name": "Turkish",
+        "level": "Native"
+      },
+      "english": {
+        "name": "English",
+        "level": "B1"
+      }
+    },
+    "certificates": {
+      "title": "Certificates",
+      "items": [
+        {
+          "name": "Teknofest Unmanned Ground Vehicle Competition",
+          "issuer": "TEKNOFEST",
+          "date": "May 2023",
+          "credentialId": "48129",
+          "url": "https://www.t3kys.com/en/program/certificate/48129"
+        },
+        {
+          "name": "Teknofest Smart Transportation Competition",
+          "issuer": "TEKNOFEST",
+          "date": "May 2023",
+          "credentialId": "47480",
+          "url": "https://www.t3kys.com/en/program/certificate/47480"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Get in Touch",
+    "text": "You can reach out anytime to discuss an idea you have or simply to say hello.",
+    "cta": "Say hello",
+    "emailLabel": "Email",
+    "socials": "Links",
+    "sendEmail": "Send email",
+    "copyEmail": "Copy email",
+    "clickToCopy": "Click to copy",
+    "copied": "Copied!"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  },
+  "theme": {
+    "toggle": "Toggle theme",
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "palette": {
+    "toggle": "Switch color palette",
+    "orange": "Orange & Cobalt",
+    "purple": "Purple & Cyan",
+    "charcoal": "Charcoal & Neon"
+  },
+  "locale": {
+    "switch": "Switch language",
+    "en": "English",
+    "tr": "Türkçe"
+  },
+  "loading": "Loading…",
+  "notFound": {
+    "code": "404",
+    "title": "Your PC ran into a problem and needs to restart.",
+    "text": "The page you were looking for doesn't exist on this computer. We're just collecting some error info, and then you can restart.",
+    "progress": "{n}% complete",
+    "more": "For more information about this issue and possible fixes, visit",
+    "stopCode": "Stop code",
+    "failed": "What failed",
+    "restart": "Restart",
+    "hint": "Press Enter to restart"
+  },
+  "desktop": {
+    "editor": "Code Editor",
+    "browser": "Browser",
+    "terminal": "Terminal",
+    "close": "Close",
+    "minimize": "Minimize",
+    "fullscreen": "Full screen",
+    "welcome": "Welcome",
+    "dock": "Dock",
+    "menu": {
+      "file": "File",
+      "edit": "Edit",
+      "view": "View",
+      "go": "Go",
+      "window": "Window",
+      "help": "Help",
+      "aboutOs": "About {os}",
+      "darkMode": "Dark Mode",
+      "replay": "Replay Intro",
+      "sleep": "Sleep",
+      "restart": "Restart…",
+      "shutDown": "Shut Down…",
+      "lock": "Lock Screen",
+      "aboutApp": "About {app}",
+      "hide": "Hide {app}",
+      "quit": "Quit {app}",
+      "newTerminal": "New Terminal Window",
+      "openSite": "Open {domain}",
+      "openEditor": "Open Code Editor",
+      "openReadme": "Open README.md",
+      "closeWindow": "Close Window",
+      "open": "Open",
+      "selectAll": "Select All",
+      "copyEmail": "Copy Email Address",
+      "enterFull": "Enter Full Screen",
+      "wallpaper": "Wallpaper",
+      "nextWallpaper": "Change Wallpaper",
+      "cleanUp": "Clean Up",
+      "language": "Language",
+      "home": "Home",
+      "spotlight": "Spotlight Search…",
+      "minimize": "Minimize",
+      "zoom": "Zoom",
+      "osHelp": "{os} Help",
+      "terminalHelp": "Terminal Commands",
+      "contactMe": "Contact {name}",
+      "starRepo": "Star on GitHub ⭐",
+      "viewSource": "View Source on GitHub",
+      "useTemplate": "Use This Template"
+    },
+    "wallpapers": {
+      "aurora": "Aurora",
+      "sunset": "Sunset",
+      "ocean": "Ocean",
+      "graphite": "Graphite"
+    },
+    "power": {
+      "on": "Turn on",
+      "hint": "Click to turn on"
+    },
+    "lock": {
+      "placeholder": "Enter Password",
+      "hint": "Hint: try typing “{password}”",
+      "showHint": "Show password hint",
+      "wrong": "Incorrect password",
+      "unlock": "Unlock",
+      "sleep": "Sleep",
+      "restart": "Restart",
+      "shutDown": "Shut Down"
+    },
+    "spotlight": {
+      "placeholder": "Spotlight Search",
+      "apps": "Applications",
+      "sections": "Sections",
+      "files": "Files",
+      "commands": "Commands",
+      "empty": "No results"
+    },
+    "notify": {
+      "ready": "{domain} is running",
+      "readyBody": "Compiled successfully. Have a look around!",
+      "copied": "Email address copied",
+      "welcome": "Welcome back, {name}",
+      "welcomeBody": "Right-click the desktop or press ⌘K to explore.",
+      "wallpaper": "Wallpaper changed.",
+      "star": "Enjoying {os}?",
+      "starBody": "It’s open source. Click to star it on GitHub ⭐"
+    },
+    "aboutWin": {
+      "version": "Version {version}",
+      "owner": "Owner",
+      "role": "Role",
+      "experience": "Experience",
+      "years": "{n}+ years",
+      "stack": "Stack",
+      "serial": "Serial Number",
+      "moreInfo": "More Info…",
+      "contact": "Get in Touch",
+      "openSource": "{os} is open source. Like it?",
+      "star": "Star on GitHub",
+      "template": "Use as Template"
+    },
+    "back": "Back",
+    "forward": "Forward",
+    "scriptFile": "quick-info.sh",
+    "status": {
+      "battery": "Battery",
+      "source": "Power Source",
+      "adapter": "Power Adapter",
+      "state": "Status",
+      "full": "Fully Charged",
+      "charging": "Charging",
+      "untilFull": "{duration} until full",
+      "remaining": "{duration} remaining",
+      "onBattery": "On battery power",
+      "duration": "{h}h {m}m",
+      "health": "Condition",
+      "normal": "Normal",
+      "energyMode": "Energy Mode",
+      "automatic": "Automatic",
+      "knownNetwork": "Known Network",
+      "connected": "Connected",
+      "otherNetworks": "Other Networks",
+      "wifiOff": "Wi-Fi is turned off."
+    },
+    "todo": {
+      "title": "Reminders",
+      "placeholder": "New reminder…",
+      "add": "Add",
+      "remove": "Remove reminder",
+      "empty": "All done! 🎉",
+      "due": "Due {when}",
+      "dueLabel": "Due",
+      "overdue": "overdue",
+      "today": "today",
+      "tomorrow": "tomorrow",
+      "nextWeekday": "next {weekday}",
+      "choices": {
+        "today": "Today",
+        "tomorrow": "Tomorrow",
+        "inThreeDays": "In 3 days",
+        "nextWeek": "Next week",
+        "none": "No date"
+      },
+      "items": {
+        "launch": "Ship the new portfolio",
+        "coffee": "Coffee break ☕",
+        "app": "Add a new app to {os}",
+        "proposal": "Send the project proposal",
+        "blog": "Publish the PostgreSQL post"
+      }
+    },
+    "script": {
+      "finished": "Process completed",
+      "pressKey": "Press any key or tap to close this window…",
+      "lines": [
+        "",
+        "Hi! 👋 I'm {name},",
+        "a {role}.",
+        "",
+        "▸ What I do",
+        "  I turn product ideas into fast, reliable and maintainable software, end to end.",
+        "  Scalable apps, APIs and backend services with .NET and TypeScript (Node.js, NestJS, Next.js, React).",
+        "",
+        "▸ Experience",
+        "  {years}+ years of building.",
+        "",
+        "▸ Education",
+        "  {degree} — {school}",
+        "",
+        "▸ Contact",
+        "  ✉  {email}",
+        "  in {linkedin}",
+        "  gh {github}",
+        "",
+        "Keep exploring {os}: right-click the desktop or press ⌘K. 🚀"
+      ]
+    },
+    "searchEngine": {
+      "brand": "Search",
+      "stats": "About {n} results for “{q}” (0.21 seconds)",
+      "linkedin": "{name} — {role}. View the full profile, experience and recommendations on LinkedIn.",
+      "github": "Repositories, contributions and open-source work by {name}.",
+      "freelancer": "Hire {name} for web, backend and full-stack projects. Reviews, portfolio and ratings."
+    },
+    "settings": {
+      "title": "System Settings",
+      "panes": {
+        "general": "General",
+        "appearance": "Appearance",
+        "wallpaper": "Wallpaper",
+        "language": "Language & Region",
+        "wifi": "Wi-Fi",
+        "sound": "Sound",
+        "desktop": "Desktop & Dock",
+        "docker": "Docker"
+      },
+      "version": "Version {version}",
+      "about": "About this computer",
+      "open": "Open",
+      "reset": "Reset all settings",
+      "resetHint": "Forget windows, tabs, reminders and preferences.",
+      "resetButton": "Reset…",
+      "resetDone": "Resetting…",
+      "themes": {
+        "light": "Light",
+        "dark": "Dark",
+        "system": "Auto"
+      },
+      "language": "Language",
+      "languageHint": "Used across the whole site.",
+      "connectedTo": "Connected to {network}",
+      "wifiOff": "Off",
+      "volume": "Output volume",
+      "music": "Music",
+      "reminders": "Show Reminders widget",
+      "magnify": "Dock magnification",
+      "cleanUp": "Desktop icons",
+      "cleanUpHint": "Put icons back in their places.",
+      "cleanUpButton": "Clean Up",
+      "musicWidget": "Show Music widget",
+      "docker": {
+        "running": "Docker Desktop is running",
+        "starting": "Docker Desktop is starting…",
+        "stopped": "Docker Desktop is stopped",
+        "start": "Start",
+        "stop": "Stop",
+        "startOnLogin": "Start Docker Desktop when you sign in",
+        "cpus": "CPU limit",
+        "memory": "Memory limit"
+      }
+    },
+    "music": {
+      "title": "Music",
+      "original": "Original",
+      "play": "Play",
+      "pause": "Pause",
+      "next": "Next",
+      "previous": "Previous",
+      "volume": "Volume",
+      "playlist": "Playlist",
+      "playlistName": "{os} Sessions",
+      "grooves": {
+        "lofi": "Lo-fi",
+        "chill": "Chill",
+        "house": "House",
+        "synthwave": "Synthwave"
+      },
+      "seek": "Playback position",
+      "back10": "Back 10 seconds",
+      "forward10": "Forward 10 seconds",
+      "nowPlaying": "Now Playing"
+    },
+    "offline": {
+      "title": "You're not connected to the Internet",
+      "body": "{domain} can't be reached because your computer is offline.",
+      "tip1": "Turn on Wi-Fi from the menu bar or System Settings.",
+      "tip2": "Check that you're connected to a network.",
+      "turnOn": "Turn Wi-Fi On"
+    },
+    "control": {
+      "open": "Open Control Centre",
+      "title": "Control Centre",
+      "darkMode": "Dark Mode",
+      "on": "On",
+      "off": "Off",
+      "language": "Language",
+      "search": "Search everything",
+      "lock": "Lock Screen",
+      "close": "Close Control Centre"
+    },
+    "ctx": {
+      "open": "Open",
+      "show": "Show",
+      "hide": "Hide",
+      "quit": "Quit",
+      "close": "Close Window",
+      "exitFull": "Exit Full Screen",
+      "copy": "Copy",
+      "openLink": "Open Link in New Tab",
+      "copyLink": "Copy Link Address",
+      "back": "Back",
+      "forward": "Forward",
+      "reload": "Reload",
+      "viewSource": "View Page Source",
+      "magnify": "Turn Magnification On",
+      "dockSettings": "Dock Settings…",
+      "clearCompleted": "Clear Completed",
+      "editWidgets": "Edit Widgets…",
+      "hideWidget": "Remove Widget",
+      "play": "Play",
+      "pause": "Pause",
+      "nextTrack": "Next Track",
+      "openMusic": "Open Music",
+      "dockerDashboard": "Go to the Dashboard",
+      "dockerContainers": "Containers",
+      "dockerSettings": "Settings…",
+      "dockerRestart": "Restart",
+      "dockerStart": "Start Docker Desktop",
+      "dockerQuit": "Quit Docker Desktop",
+      "dockerReady": "Docker Desktop is running",
+      "dockerReadyBody": "Engine started. All containers are back up."
+    },
+    "deploy": {
+      "file": "deployment.sh",
+      "panic": "dockerd: out of memory, killing processes…",
+      "crashText": "A container started by deployment.sh kept allocating memory until the system ran out of it. We're collecting some error info, and then you can restart.",
+      "lines": [
+        "",
+        "→ docker build -t portfolio-api:1.4.0 .",
+        "  [1/5] FROM mcr.microsoft.com/dotnet/aspnet:9.0",
+        "  [2/5] COPY ./publish /app",
+        "  [3/5] RUN dotnet restore",
+        "  [4/5] RUN dotnet publish -c Release",
+        "  [5/5] exporting to image",
+        "  ✔ Successfully built portfolio-api:1.4.0 (412 MB)",
+        "",
+        "→ docker run -d --name api -p 5000:8080 portfolio-api:1.4.0",
+        "  ✔ Container api started",
+        "",
+        "→ Waiting for health check…",
+        "  api | warmup: loading cache into memory",
+        "  ⚠ memory usage 1.8 GB / 8 GB",
+        "  ⚠ memory usage 4.6 GB / 8 GB",
+        "  ⚠ memory usage 7.9 GB / 8 GB (no memory limit set on container)",
+        "  ⚠ swap exhausted",
+        "  kernel: Out of memory: killing process dockerd",
+        "",
+        "FATAL: MEMORY_MANAGEMENT: unable to allocate page frame"
+      ]
+    }
+  },
+  "editor": {
+    "explorer": "Explorer",
+    "search": "Search",
+    "sourceControl": "Source Control",
+    "extensions": "Extensions",
+    "settings": "Settings",
+    "searchPlaceholder": "Search in files",
+    "results": "{n} results in {files} files",
+    "noResults": "No results found.",
+    "commitPlaceholder": "Message (⌘Enter to commit on “main”)",
+    "commit": "Commit",
+    "defaultCommit": "Update from {os}",
+    "staged": "Staged Changes",
+    "changes": "Changes",
+    "commits": "Commits",
+    "nothingStaged": "No staged changes",
+    "stage": "Stage Changes",
+    "unstage": "Unstage Changes",
+    "push": "Push",
+    "extSearch": "Search Extensions in Marketplace",
+    "installed": "Installed",
+    "enable": "Enable",
+    "disable": "Disable",
+    "ext": {
+      "csharp": "Productive C# development for .NET",
+      "eslint": "Integrates ESLint into the editor",
+      "prettier": "Opinionated code formatter",
+      "tailwind": "Autocomplete and linting for Tailwind CSS",
+      "nest": "Controllers, services and modules in seconds",
+      "docker": "Build, manage and deploy containers",
+      "postgres": "Query and manage PostgreSQL databases",
+      "gitlens": "Blame, history and insights for Git",
+      "rest": "Send HTTP requests to your APIs"
+    },
+    "theme": "Color Theme",
+    "themeHint": "Applies to the whole computer.",
+    "themeDark": "Dark",
+    "themeLight": "Light",
+    "themeSystem": "System",
+    "language": "Display Language",
+    "fontSize": "Editor: Font Size",
+    "minimap": "Editor: Show Minimap",
+    "wallpaper": "Desktop Wallpaper",
+    "closeTab": "Close {name}",
+    "closeTerminal": "Close Panel",
+    "problems": "Problems",
+    "output": "Output",
+    "terminal": "Terminal",
+    "noProblems": "0 problems",
+    "oneProblem": "1 problem",
+    "spaces": "Spaces: {n}",
+    "showCommands": "Show All Commands",
+    "goToFile": "Go to File",
+    "toggleTerminal": "Toggle Terminal",
+    "pin": "Pin",
+    "unpin": "Unpin",
+    "open": "Open",
+    "close": "Close",
+    "closeOthers": "Close Others",
+    "closeRight": "Close to the Right",
+    "closeAll": "Close All",
+    "copyPath": "Copy Path",
+    "copyRelativePath": "Copy Relative Path",
+    "reveal": "Reveal in Explorer",
+    "copied": "Copied",
+    "terminalIdle": "Press Run to start the dev server.",
+    "noProblemsLong": "No problems have been detected in the workspace.",
+    "outputEmpty": "No output yet. Run the project or commit something."
+  },
+  "view": {
+    "text": "Text version",
+    "os": "OS version"
+  }
+}
